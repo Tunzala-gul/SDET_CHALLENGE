@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="13.563">
+<testcase classname="Gold Bar Weight Check" name="Find the fake gold bar" time="13.291">
+<system-out><![CDATA[Given I am on the SDET challenge site.......................................passed
+When I check the all combinations to find a fake gold bar...................passed
+Then I confirm that I found the fake gold bar...............................passed
+And I output the weighing information.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
